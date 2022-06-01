@@ -4,5 +4,5 @@ pafy
 pytube
 youtube-search-python
 asyncio
-pytgcalls==3.0.0.dev19
+pytgcalls==3.0.0.dev22
 git+https://github.com/pyrogram/pyrogram@master
